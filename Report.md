@@ -26,14 +26,16 @@
 
 نتایج new reno :
 
-[![image](https://www.linkpicture.com/q/new-reno.png)](https://www.linkpicture.com/view.php?img=LPic648c9f7d822d5939832771)
+[![image](https://www.linkpicture.com/q/new_7.png)](https://www.linkpicture.com/view.php?img=LPic648cb0e1cc43c383246888)
 
 
+در این تصویر میبینیم که packet loss اتفاق افتاده است .
 نتایج reno :
 
 
-[![image](https://www.linkpicture.com/q/reno.png)](https://www.linkpicture.com/view.php?img=LPic648c9f7d822d5939832771)
+[![image](https://www.linkpicture.com/q/2_5.png)](https://www.linkpicture.com/view.php?img=LPic648cb098c5eb21618395877)
 
+[![image](https://www.linkpicture.com/q/1_4.png)](https://www.linkpicture.com/view.php?img=LPic648cb098c5eb21618395877)
 
 # BBR
 
