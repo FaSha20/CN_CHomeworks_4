@@ -72,7 +72,6 @@ void handleAck(int ackNum){
 }
 int checkTimeout(){
     int a = rand()%10;
-    //cout <<"a: "<<a << endl;
     if( a > rtt ){
     return 1;
     }   
