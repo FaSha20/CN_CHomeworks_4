@@ -1,0 +1,183 @@
+Trasmitting packet...
+Ack #1 recieved.
+
+-----------------------------
+congestion window: 2
+ssthresh: 10000
+Phase: Slow Start
+-----------------------------
+
+Trasmitting packet...
+Ack #2 recieved.
+
+-----------------------------
+congestion window: 4
+ssthresh: 10000
+Phase: Slow Start
+-----------------------------
+
+Trasmitting packet...
+Ack #3 recieved.
+
+-----------------------------
+congestion window: 8
+ssthresh: 10000
+Phase: Slow Start
+-----------------------------
+
+Trasmitting packet...
+Ack #4 recieved.
+
+-----------------------------
+congestion window: 16
+ssthresh: 10000
+Phase: Slow Start
+-----------------------------
+
+Trasmitting packet...
+Ack #5 recieved.
+
+-----------------------------
+congestion window: 32
+ssthresh: 10000
+Phase: Slow Start
+-----------------------------
+
+Trasmitting packet...
+Packet loss occurred...
+
+-----------------------------
+congestion window: 16
+ssthresh: 16
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+Packet loss occurred...
+
+-----------------------------
+congestion window: 8
+ssthresh: 8
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+Ack #8 recieved.
+
+-----------------------------
+congestion window: 9
+ssthresh: 8
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+Ack #9 recieved.
+
+-----------------------------
+congestion window: 10
+ssthresh: 8
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+Ack #10 recieved.
+
+-----------------------------
+congestion window: 11
+ssthresh: 8
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+Ack #11 recieved.
+
+-----------------------------
+congestion window: 12
+ssthresh: 8
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+----Timeout occurred...
+----Packet number #12 did not recieved.
+
+-----------------------------
+congestion window: 1
+ssthresh: 6
+Phase: Slow Start
+-----------------------------
+
+Trasmitting packet...
+Ack #12 recieved.
+
+-----------------------------
+congestion window: 2
+ssthresh: 6
+Phase: Slow Start
+-----------------------------
+
+Trasmitting packet...
+Ack #13 recieved.
+
+-----------------------------
+congestion window: 4
+ssthresh: 6
+Phase: Slow Start
+-----------------------------
+
+Trasmitting packet...
+Ack #14 recieved.
+!!Congestion avoidanve region!!
+
+-----------------------------
+congestion window: 6
+ssthresh: 6
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+Ack #15 recieved.
+
+-----------------------------
+congestion window: 7
+ssthresh: 6
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+Ack #16 recieved.
+
+-----------------------------
+congestion window: 8
+ssthresh: 6
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+Ack #17 recieved.
+
+-----------------------------
+congestion window: 9
+ssthresh: 6
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+Ack #18 recieved.
+
+-----------------------------
+congestion window: 10
+ssthresh: 6
+Phase: Congestion avoidance (AIMD)
+-----------------------------
+
+Trasmitting packet...
+----Timeout occurred...
+----Packet number #19 did not recieved.
+
+-----------------------------
+congestion window: 1
+ssthresh: 5
+Phase: Slow Start
+-----------------------------
+

@@ -1,0 +1,202 @@
+Trasmitting packet...
+Ack #1 recieved.
+
+-----------------------------
+congestion window: 2
+Phase: Slow Start
+rtt: 8
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #2 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: Slow Start
+rtt: 8
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #3 recieved.
+
+-----------------------------
+congestion window: 8
+Phase: Slow Start
+rtt: 8
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #4 recieved.
+
+-----------------------------
+congestion window: 8
+Phase: BBR stability
+rtt: 8
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #5 recieved.
+
+-----------------------------
+congestion window: 8
+Phase: BBR stability
+rtt: 8
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #6 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #7 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #8 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #9 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #10 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+----Timeout occurred...
+----Packet number #11 not recieved.
+
+-----------------------------
+congestion window: 1
+Phase: Slow Start
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #11 recieved.
+
+-----------------------------
+congestion window: 2
+Phase: Slow Start
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #12 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: Slow Start
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #13 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #14 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #15 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #16 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #17 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #18 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Trasmitting packet...
+Ack #19 recieved.
+
+-----------------------------
+congestion window: 4
+Phase: BBR stability
+rtt: 4
+Buttleneck bw: 1
+-----------------------------
+
+Time taken by BBR : 372 microseconds
