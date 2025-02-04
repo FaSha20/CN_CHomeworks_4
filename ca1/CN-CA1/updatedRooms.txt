@@ -1,0 +1,20 @@
+ Room data:  [number] 101 [status] 0 [price] 100 [max capactiy] 2 [reservations] 
+{} 
+
+ Room data:  [number] 102 [status] 0 [price] 73 [max capactiy] 3 [reservations] 
+{User data:  [id] 1 [username] Admin [admin] 1
+ [number of beds] 1 [reserve date] 25-02-2023 [checkout date] 27-02-2023
+} 
+
+ Room data:  [number] 201 [status] 1 [price] 100 [max capactiy] 2 [reservations] 
+{User data:  [id] 2 [username] Morad [admin] 0 [purse] 1000 [phone] 00945692356 [address] Canada
+ [number of beds] 2 [reserve date] 25-02-2023 [checkout date] 27-02-2023
+} 
+
+ Room data:  [number] 301 [status] 1 [price] 100 [max capactiy] 2 [reservations] 
+{User data:  [id] 2 [username] Morad [admin] 0 [purse] 1000 [phone] 00945692356 [address] Canada
+ [number of beds] 1 [reserve date] 27-02-2023 [checkout date] 28-02-2023
+User data:  [id] 3 [username] Jasem [admin] 0 [purse] 200 [phone] 00125692356 [address] UnitedStates
+ [number of beds] 1 [reserve date] 25-02-2023 [checkout date] 26-02-2023
+} 
+

@@ -1,0 +1,8 @@
+User data:  [id] 1 [username] Admin [admin] 1
+
+User data:  [id] 2 [username] Morad [admin] 0 [purse] 1000 [phone] 00945692356 [address] Canada
+
+User data:  [id] 3 [username] Jasem [admin] 0 [purse] 200 [phone] 00125692356 [address] UnitedStates
+
+User data:  [id] 4 [username] Pedram [admin] 0 [purse] 10 [phone] 00989112659874 [address] Iran
+
